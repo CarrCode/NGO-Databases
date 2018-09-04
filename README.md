@@ -11,7 +11,7 @@ Field names will help AI researchers and developers annotate text and classify k
 
 ## Database List
 
-Organization | Database Name | Description | Fields
+Organization | Database Name | Description | Field CSV Files
 --- | --- | --- | ---
 Acted |   |   |   
 Action Against Hunger |   |   |   
