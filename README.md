@@ -5,7 +5,9 @@ fields they incorporate.
 
 ## Objectives
 
-Information about NGO databases will help AI researchers and developers understand what information is vital to the humanitarian community and how that information is used, labeled and organized. 
+Information about NGO databases will help AI researchers and developers understand what information is vital to the humanitarian community and how that information is used, labeled and organized.
+
+Field names will help AI researchers and developers annotate text and classify keywords for example.
 
 ## Database List
 
